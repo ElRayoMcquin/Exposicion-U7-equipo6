@@ -12,7 +12,6 @@ extra_css:
 nav:
     - Individuales:
         - Actividad 1: individual/ITIL.md
-        - Actividad 2:
     - Colaborativas:
         - Actividad 1: todo.md
 copyright: ©GMDXX
