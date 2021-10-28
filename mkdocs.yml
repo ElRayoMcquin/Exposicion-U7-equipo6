@@ -11,7 +11,6 @@ extra_css:
     - css/page.css
 nav:
     - Individuales:
-        - Actividad 1: 
     - Colaborativas:
         - Actividad 0: todo.md
         - Actividad 1: colaborativo/ITIL.md
