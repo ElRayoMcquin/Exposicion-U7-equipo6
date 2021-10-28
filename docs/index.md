@@ -7,7 +7,14 @@
 </div>
 
 &nbsp;
-# Presentación
+# Presentación Equipo 6 ITIL
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+# INTEGRANTES:
+
+| Nombre | Correo |
+|------- |--------|
+| Díaz Uribe Luis Felipe | 317226793@pcpuma.acatlan.unam.mx |
+| Mendoza Zamora Oswaldo |
+| Rivas Torres Monserrat |
+| Simon Aranda Zahir Hassan |
+| Siles Ochoa Edgar Jair | 
