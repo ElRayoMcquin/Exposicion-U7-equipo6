@@ -10,8 +10,8 @@ theme:
 extra_css:
     - css/page.css
 nav:
-    - Individuales:
-        - Actividad 1: individual/ITIL.md
+    - Introduccion:
+        - ITIL: individual/ITIL.md
     - Colaborativas:
         - Actividad 1: todo.md
 copyright: ©GMDXX
