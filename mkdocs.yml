@@ -12,7 +12,5 @@ extra_css:
 nav:
     - Introduccion:
         - ITIL: individual/ITIL.md
-    - Colaborativas:
-        - Actividad 1: todo.md
 copyright: ©GMDXX
 site_author: GMDXX
