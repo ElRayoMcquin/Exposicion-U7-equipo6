@@ -24,8 +24,8 @@ En el año 2007 se publica una nueva revisión, la cual revolucionó el enfoque 
 
 ![Mi Imágen](/archivos/Imagenes/diagramav3.jpg)
 
-Fuentes:
+### Fuentes:
 
 ITIL® (Information TechnologyInfrastructure Library) Qué es y Breve Historia, Oltra Badenes Raúl Francisco, Departamento de Organización de Empresas, Universidad Politècnica de València 
- 
+
 https://riunet.upv.es/bitstream/handle/10251/68323/Oltra%20-%20ITIL%C2%AE%20(Information%20Technology%20Infrastructure%20Library)%20Qu%C3%A9%20es%20y%20Breve%20Historia.pdf?sequence=1#:~:text=Como%20dec%C3%ADamos%2C%20ITIL%C2%AE%20fue,servicios%20de%20TI%20era%20fundamental.&text=Esa%20fue%20la%20versi%C3%B3n%201%20de%20ITIL%C2%AE.
