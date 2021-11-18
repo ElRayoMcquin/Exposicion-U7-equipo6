@@ -11,8 +11,10 @@ extra_css:
     - css/page.css
 nav:
     - Introduccion:
-        - ITIL: individual/ITIL.md
+        - ¿Qué es?: individual/ITILquees.md
     - Antecedentes:
-        - Actividad 1: todo.md
+        - Antecedentes: individual/antecedentes.md
+    - ITIL V4:
+
 copyright: ©GMDXX
 site_author: GMDXX
