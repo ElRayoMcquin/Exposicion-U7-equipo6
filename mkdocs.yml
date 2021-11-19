@@ -23,7 +23,13 @@ nav:
     - Etapas:
         - Etapas de ITIL: individual/etapas.md
     - Ventajas y Desventajas:
-        - Ventajas y Desventajas de ITIL: individual/ventajas.md
+        - V y D de ITIL: individual/ventajas.md
+    - Certicacion:
+        - Certificacion ITIL: individual/certificaciones.md
+    - Conclusion y recursos:
+        - Conclusion y recursos: individual/conclu.md
+    - Referencias:
+        - Referencias: individual/referencias.md
 
 copyright: ©GMDXX
 site_author: GMDXX

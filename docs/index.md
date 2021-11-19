@@ -11,8 +11,8 @@
 
 # INTEGRANTES:
 
-| Nombre | Correo |
-|------- |--------|
+| Nombre | 
+|------- |
 | Díaz Uribe Luis Felipe | 
 | Jiménez Pérz Daniel Fernando |
 | Rivas Torres Monserrat |
