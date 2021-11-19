@@ -13,8 +13,7 @@
 
 | Nombre | Correo |
 |------- |--------|
-| Díaz Uribe Luis Felipe | 317226793@pcpuma.acatlan.unam.mx |
-| Mendoza Zamora Oswaldo |
+| Díaz Uribe Luis Felipe | 
+| Jiménez Pérz Daniel Fernando |
 | Rivas Torres Monserrat |
-| Simon Aranda Zahir Hassan |
-| Siles Ochoa Edgar Jair | 420086734@pcpuma.acatlan.unam.mx |
+| Siles Ochoa Edgar Jair | 

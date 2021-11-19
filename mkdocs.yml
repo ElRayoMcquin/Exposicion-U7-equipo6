@@ -14,6 +14,16 @@ nav:
         - ¿Qué es?: individual/ITILquees.md
     - Antecedentes:
         - Antecedentes: individual/antecedentes.md
+    - ITIL V3:
+        - V3: individual/V3.md
+    - ITIL V4:
+        - V4: individual/V4.md
+    - Funcionalidad:
+        - Funcion de ITIL: individual/funcion.md
+    - Etapas:
+        - Etapas de ITIL: individual/etapas.md
+    - Ventajas y Desventajas:
+        - Ventajas y Desventajas de ITIL: individual/ventajas.md
 
 copyright: ©GMDXX
 site_author: GMDXX
